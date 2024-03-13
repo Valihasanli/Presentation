@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\bin\Debug\net8.0\binarysearch.exe
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\bin\Debug\net8.0\binarysearch.deps.json
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\bin\Debug\net8.0\binarysearch.runtimeconfig.json
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\bin\Debug\net8.0\binarysearch.dll
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\bin\Debug\net8.0\binarysearch.pdb
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.AssemblyInfo.cs
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.sourcelink.json
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.dll
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\refint\binarysearch.dll
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.pdb
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\binarysearch.genruntimeconfig.cache
+C:\Users\User\Desktop\task4\binarysearch\binarysearch\obj\Debug\net8.0\ref\binarysearch.dll

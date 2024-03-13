@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\task4\\binarysearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293E29F9-81C3-42B1-9CB2-464D747629F0}|binarysearch\\binarysearch.csproj|c:\\users\\user\\desktop\\task4\\binarysearch\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293E29F9-81C3-42B1-9CB2-464D747629F0}|binarysearch\\binarysearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\task4\\binarysearch\\binarysearch\\Program.cs",
+              "RelativeDocumentMoniker": "binarysearch\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\task4\\binarysearch\\binarysearch\\Program.cs",
+              "RelativeToolTip": "binarysearch\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:54:06.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
